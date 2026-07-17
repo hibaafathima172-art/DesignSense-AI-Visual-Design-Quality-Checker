@@ -13,28 +13,24 @@ This project combines deep learning, computer vision and accessibility analysis 
 ## Screenshots
 
 ### Upload Interface
-
-<img src="Screenshots/interface.png" width="700">
+![Upload Interface](./screenshots/interface.png)
 
 ### Design Quality Analysis Report
-
-![Analysis Report](screenshots/Analysis1.png)
+![Analysis Report](./screenshots/analysis1.png)
 
 ### Detected Text Areas and Model Probabilities
-
-![Detected Text and Probabilities](screenshots/Analysis2.png)
+![Text Areas and Probabilities](./screenshots/analysis2.png)
 
 ### Detailed Analysis Output
-
-![Detailed Analysis](screenshots/Analysis3.png)
+![Detailed Analysis](./screenshots/analysis3.png)
 
 ### Design Suggestions
+![Design Suggestions](./screenshots/design_suggestion.png)
 
-![Design Suggestions](screenshots/Design_Suggestion.png)
+### Extracted Text Output
+![Extracted Text](./screenshots/extracted_text.png)
 
-### Extracted Text and Suggestions
-
-![Extracted Text](screenshots/Extracted_Text.png)
+---
 
 ## Features
 
