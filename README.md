@@ -14,7 +14,7 @@ This project combines deep learning, computer vision and accessibility analysis 
 
 ### Upload Interface
 
-![Upload Interface](screenshots/interface.png)
+<img src="Screenshots/interface.png" width="700">
 
 ### Design Quality Analysis Report
 
